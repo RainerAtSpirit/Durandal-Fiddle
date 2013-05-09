@@ -20,7 +20,7 @@
             ctx.isDFiddle(args.name === 'dFiddle');
 
             return system.acquire(partialModuleID + args.name + '/index').then(function (sample) {
-                ctx.dFiddleRepoUrl(self.dFiddleRepoUrl + sample.__moduleId__ + '.js');
+                ctx.dFiddleRepoUrl(that.dFiddleRepoUrl + sample.__moduleId__ + '.js');
                 ctx.activeSample(sample);
             });
         }
