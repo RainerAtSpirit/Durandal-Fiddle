@@ -29,8 +29,8 @@
                 }
             ],
             activate: function (args) {
-                var self = this;
-                return global.activateIndex(args, self);
+                var that = this;
+                return global.activateIndex(args, that);
             }
         };
     });

@@ -8,7 +8,7 @@
         };
 
         function activateIndex(args, ctx) {
-            var self = this;
+            var that = this;
             var moduleID = system.getModuleId(ctx);
             var partialModuleID = moduleID.substring(0, moduleID.lastIndexOf('/') + 1);
 
