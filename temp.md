@@ -24,10 +24,9 @@ minium, it allows bringing up live Durandal _fiddles_ in minutes.
 clone it to your local machine
 + Step 2: For each example in the Durandal starter kit you'll find a _fiddle_ version that can be used as a starting
 point for your own code.
-+ Step 3: In the mood to reate more examples? Create sub-folders in a samples sub-category folders e.g.
-`samples/viewCompostion` and add it to `sampleGroups` in `index.js`. Take a look at
-[https://github.com/dFiddle/dFiddle-1.2/blob/gh-pages/App/samples/viewComposition/index.js#L9] for an example.
-
++ Step 3: You're in the mood of creating more examples? Great! Simply create sub-folders in a samples sub-category
+folders e.g. `samples/viewCompostion` and add it to `sampleGroups` in `index.js`. Check out
+[https://github.com/dFiddle/dFiddle-1.2/blob/gh-pages/App/samples/viewComposition/index.js#L9] for the exact syntax.
 
 
 ### Advanced usage
@@ -43,11 +42,9 @@ which you would have to mock up on GitHub otherwise.
 ### Sharing the _fiddle_
 
 Once you make your first commit the live version will become available at an URL like
-`http://Your_User_Name.github.io/dFiddle-1.2` (You'll find the exact Url under Settings|GitHub Pages). According
- to GitHub it might take up to **ten minutes** for changes to be visible.
-
-You can now share links to the live version of your _fiddle_ and in addition point to specific files or even line of
-code when asking questions at [stackoverflow] or in the [Durandal newsgroup].
+`http://Your_User_Name.github.io/dFiddle-1.2` (The published Url can be found under GitHub Repo settings|GitHub 
+Pages). 
+According to GitHub it might take up to **ten minutes** for changes to be visible.
 
 + share links to the the live version e.g. [http://dfiddle.github.io/dFiddle-1.2/#/view-composition/wizard]
 + share links right down to a specific code line e.g.
