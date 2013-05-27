@@ -42,8 +42,8 @@ which you would have to mock up on GitHub otherwise.
 ### Sharing the _fiddle_
 
 Once you make your first commit the live version will become available at an URL like
-`http://Your_User_Name.github.io/dFiddle-1.2` (The published Url can be found under GitHub Repo settings|GitHub 
-Pages). 
+`http://Your_User_Name.github.io/dFiddle-1.2`. The published Url can be found under Repo | Settings | GitHub
+Pages).
 According to GitHub it might take up to **ten minutes** for changes to be visible.
 
 + share links to the the live version e.g. [http://dfiddle.github.io/dFiddle-1.2/#/view-composition/wizard]
