@@ -10,7 +10,7 @@ Unfortunately, due to the nature of Durandal that encourage you to break down ap
  [composition] to stitch them back together, those apps are no longer at their sweet spot. because there's no easy
  way to deal with multiple smaller external files.
 
-**dFiddle** to the rescue.
+**[dFiddle]** to the rescue.
 
 ### What is it?
 
@@ -20,7 +20,8 @@ minium, it allows bringing up live Durandal _fiddles_ in minutes.
 
 ### Basic usage
 
-+ Step 1: Fork the repo (hint there's a fork button in the upper right) and optionally clone it to your local machine
++ Step 1: Fork [dFiddle-1.2] on GitHub (hint there's a fork button in the upper right) and optionally
+clone it to your local machine
 + Step 2: For each example in the Durandal starter kit you'll find a _fiddle_ version that can be used as a starting
 point for your own code.
 + Step 3: In the mood to reate more examples? Create sub-folders in a samples sub-category folders e.g.
@@ -57,9 +58,11 @@ Totally optionally, but highly appreciated. Whenever you find a solution for a s
 so that it can be integrated.
 
 
-Based on Durandal v1.2
+
 
 [Durandal]: http://durandaljs.com/
+[dFiddle]: https://github.com/dFiddle
+[dFiddle-1.2]: https://github.com/dFiddle/dFiddle-1.2
 [composition]: http://durandaljs.com/documentation/Using-Composition/
 [stackoverflow]: http://stackoverflow.com/questions/tagged/durandal
 [Durandal newsgroup]: https://groups.google.com/forum/#!forum/durandaljs
